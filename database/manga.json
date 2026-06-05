@@ -1,0 +1,48 @@
+{
+  "_version": "appV1.0 Rev 0",
+  "manga_id": "dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": [
+    "Doom Breaker",
+    "투신전생기",
+    "Reincarnation of the Suicidal Battle God"
+  ],
+  "status": "Ongoing",
+  "author": "Cheong-dam",
+  "artist": "Cheong-dam",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2021,
+  "rating": 9.6,
+  "synopsis": "Zephyr adalah manusia terakhir yang tersisa dalam pertempuran melawan dewa iblis Tartarus. Meskipun ia gagal dan terbunuh, para dewa yang terhibur oleh perlawanannya memberinya kesempatan kedua. Zephyr kembali ke masa lalu, tepat 10 tahun sebelum dunia hancur. Dengan ingatan dan pengalamannya, ia bersumpah untuk membalas dendam dan menyelamatkan umat manusia dari kepunahan.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kembalinya Sang Pemburu Naga",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-01/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-01/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Persiapan Menuju Kehancuran",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-02/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch-02/005.jpg"
+      ]
+    }
+  ]
+}
